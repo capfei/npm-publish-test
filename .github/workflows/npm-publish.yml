@@ -19,4 +19,4 @@ jobs:
         with:
           token: ${{ secrets.NPM_TOKEN }}
           tag: beta
-          dry-run: true
+          # dry-run: true
