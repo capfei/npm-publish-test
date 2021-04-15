@@ -1,6 +1,6 @@
 {
   "name": "@ospo/npm-publish-test",
-  "version": "0.0.0",
+  "version": "0.0.0-beta1",
   "description": "npm-publish-test",
   "main": "index.js",
   "scripts": {
