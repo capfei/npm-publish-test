@@ -1,7 +1,7 @@
 {
-  "name": "@ospo/npm-publish-test",
+  "name": "@ospo/npm-publish-teams",
   "version": "0.0.0-beta1",
-  "description": "npm-publish-test",
+  "description": "npm-publish-tesams",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
