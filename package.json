@@ -1,7 +1,7 @@
 {
-  "name": "@ospo/npm-publish-team2",
+  "name": "@ospo/npm-publish-capfei",
   "version": "0.0.0-beta1",
-  "description": "npm-publish-team2",
+  "description": "npm-publish-capfei",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
